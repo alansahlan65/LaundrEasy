@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24">
+    </item>
+
+    <item
+        android:id="@+id/layanan"
+        android:icon="@drawable/ic_baseline_local_laundry_service_24"
+        android:iconTint="#FFFFFF"
+        android:title="Layanan"></item>
+
+    <item
+        android:id="@+id/pesan"
+        android:title="">
+     </item>
+
+    <item
+        android:id="@+id/riwayat"
+        android:title="Riwayat"
+        android:icon="@drawable/ic_baseline_riwayat_24"
+        android:iconTint="@color/white">
+    </item>
+
+    <item
+        android:id="@+id/profil"
+        android:icon="@drawable/ic_baseline_profile_24"
+        android:iconTintMode="add"
+        android:title="Profil"
+        android:iconTint="@color/white"></item>
+
+</menu>

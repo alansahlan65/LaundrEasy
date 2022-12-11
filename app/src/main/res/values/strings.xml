@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaundrEasy</string>
+    <string-array name="status">
+        <item>MENUNGGU KONFIRMASI</item>
+        <item>DIJEMPUT</item>
+        <item>DICUCI</item>
+        <item>DISETRIKA</item>
+        <item>SELESAI</item>
+        <item>DIANTAR</item>
+    </string-array>
+</resources>
